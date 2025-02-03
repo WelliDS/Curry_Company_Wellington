@@ -1,6 +1,9 @@
  <p align="Center">
   # Curry Company Project - New Version
  </p> 
+<h2 style='text-align: center; font-family: "Courier New", monospace; color: white;'>
+        Curry Company Project - New Version </h2>
+ 
 <p align="center">
  <img src="curry.png" alt="Texto alternativo">
 </p>
