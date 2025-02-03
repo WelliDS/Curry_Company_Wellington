@@ -1,8 +1,3 @@
-# Curry_Company_Wellington
-Este repositório contém arquivos e o script que construiu um dashboard estratégico para a empresa.
-
-
-
  ## Curry Company Project - New Version
  
 
@@ -114,7 +109,7 @@ clima ensolado.
 
 Painel online, hospedado em um Cloud e disponível para acesso em
 qualquer dispositivo conectado à internet.
-O painel pode ser acessado através desse link: https://currycompanynewversion-well.streamlit.app/
+O painel pode ser acessado através desse link: https://currycompany-wellington.streamlit.app/
 
 # 6. Conclusão
 
