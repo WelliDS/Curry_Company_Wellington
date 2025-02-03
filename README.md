@@ -1,4 +1,6 @@
- ## Curry Company Project - New Version
+ <p align="Center">
+  # Curry Company Project - New Version
+ </p> 
 <p align="center">
  <img src="curry.png" alt="Texto alternativo">
 </p>
