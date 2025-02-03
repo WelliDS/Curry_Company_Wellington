@@ -1,6 +1,6 @@
  ## Curry Company Project - New Version
-<p align='center'>
-![Texto alternativo](curry.png)
+<p align="center">
+ <img src="curry.png" alt="Texto alternativo">
 </p>
 
 # 1. Problema de negócio
