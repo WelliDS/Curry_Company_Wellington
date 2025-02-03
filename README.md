@@ -1,4 +1,4 @@
-<h2 style='text-align: center; font-family: "Courier New", monospace; color: white;'>
+<h2 align="center"; font-family: "Courier New", monospace; color: white;'>
         Curry Company Project - New Version </h2>
  
 <p align="center">
