@@ -1,7 +1,7 @@
  ## Curry Company Project - New Version
-
+<p align='center'>
 ![Texto alternativo](curry.png)
-
+</p>
 
 # 1. Problema de negócio
 
