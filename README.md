@@ -1,5 +1,6 @@
  ## Curry Company Project - New Version
- 
+
+ curry.png
 
 # 1. Problema de negócio
 
