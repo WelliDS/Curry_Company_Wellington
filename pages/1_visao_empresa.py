@@ -179,7 +179,8 @@ def pedido_semana(df1):
         mode='lines+markers+text',  # Certifica que o texto será mostrado junto com a linha e os marcadores
         text=df_aux['Qtde_Entregas'],  # Valores a serem mostrados
         textposition='top center',  # Posiciona o texto acima dos pontos
-        textfont=dict(size=14, color='white')  # Ajusta o tamanho e cor da fonte do texto
+        textfont=dict(size=14, color='white'),  # Ajusta o tamanho e cor da fonte do texto
+        cliponaxis=False #Impede que os valores sejam cortados
     )
 
     
