@@ -1,5 +1,5 @@
-<h2 align="center"; font-family: "Courier New", monospace; color: white;'>
-        Curry Company Project - New Version </h2>
+<h1 align="center"; font-family: "Courier New", monospace; color: white;'>
+        Curry Company Project - New Version </h1>
  
 <p align="center">
  <img src="curry.png" alt="Texto alternativo">
